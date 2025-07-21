@@ -1,0 +1,16 @@
+[{
+	"Name": "karehacolors",
+	"Description": "A warm and calm color scheme for micro, evoking the feel of fallen leaves.",
+	"Author": "Aki Kareha",
+	"Tags": ["color", "colorscheme", "autumn", "fall", "dead-leaf", "kareha"],
+	"Website": "https://github.com/akikareha/micro-kareha-colorschemes",
+	"Versions": [
+		{
+			"Version": "0.0.0",
+			"Url": "https://github.com/akikareha/micro-kareha-colorschemes/archive/v0.0.0.zip",
+			"Require": {
+				"micro": ">=2.0.0"
+			}
+		}
+	]
+}]
