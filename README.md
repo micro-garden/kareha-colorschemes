@@ -6,6 +6,8 @@ A seasonal color scheme plugin for the
 This plugin provides a warm, autumn-themed color scheme named `kareha-16`,
 designed to evoke the feeling of fallen leaves and the late-year atmosphere.
 
+![kareha-16 Lua](screenshots/kareha-16-lua.png)
+
 ## Installation
 
 ### Option 1: Install as a plugin
