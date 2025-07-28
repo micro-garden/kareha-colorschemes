@@ -3,10 +3,14 @@
 A seasonal color scheme plugin for the
 [micro](https://micro-editor.github.io/) editor.
 
-This plugin provides a warm, autumn-themed color scheme named `kareha-16`,
+This plugin provides a warm, autumn-themed color scheme named `kareha`,
 designed to evoke the feeling of fallen leaves and the late-year atmosphere.
 
+![kareha-16 Lua](screenshots/kareha-lua.png)
+kareha (256 colors)
+
 ![kareha-16 Lua](screenshots/kareha-16-lua.png)
+kareha-16 (16 colors)
 
 ## Installation
 
@@ -23,6 +27,7 @@ git clone https://github.com/akikareha/micro-karehacolors-plugin ~/.config/micro
 Then restart micro and run:
 
 ```
+set colorscheme kareha
 set colorscheme kareha-16
 ```
 
@@ -39,6 +44,7 @@ cp colorschemes/kareha-16.micro ~/.config/micro/colorschemes/
 Then set the colorscheme as usual:
 
 ```
+set colorscheme kareha
 set colorscheme kareha-16
 ```
 
