@@ -12,6 +12,8 @@ kareha (256 colors)
 ![kareha-16 Lua](screenshots/kareha-16-lua.png)
 kareha-16 (16 colors)
 
+See [help/karehacolors.md](help/karehacolors.md) for more details.
+
 ## Installation
 
 ### Option 1: Install as a plugin
