@@ -1,6 +1,6 @@
 # Kareha Colors Plugin
 
-A seasonal color scheme plugin for the micro editor.
+A seasonal color scheme plugin.
 
 This plugin provides a warm, autumn-themed color scheme named `kareha`,
 designed to evoke the feeling of fallen leaves and the late-year atmosphere.

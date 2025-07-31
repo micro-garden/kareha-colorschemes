@@ -1,7 +1,7 @@
 # Kareha Colors Plugin for Micro
 
 A seasonal color scheme plugin for the
-[micro](https://micro-editor.github.io/) editor.
+[micro](https://micro-editor.github.io/) text editor.
 
 This plugin provides a warm, autumn-themed color scheme named `kareha`,
 designed to evoke the feeling of fallen leaves and the late-year atmosphere.
