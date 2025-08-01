@@ -4,6 +4,7 @@
 	"Author": "Aki Kareha",
 	"Tags": ["color", "colorscheme", "autumn", "fall", "dead-leaf", "kareha"],
 	"Website": "https://github.com/akikareha/micro-kareha-colorschemes",
+	"License": "MIT",
 	"Versions": [
 		{
 			"Version": "0.0.1",
