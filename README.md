@@ -33,6 +33,11 @@ set colorscheme kareha
 set colorscheme kareha-16
 ```
 
+Alternatively, this plugin is also available through the unofficial plugin
+channel:  
+https://github.com/akikareha/micro-unofficial-plugin-channel  
+You can install it by adding the channel and then using `plugin install`.
+
 ### Option 2: Use the colorscheme file only
 
 If you prefer not to install the entire plugin, you can copy the color scheme
