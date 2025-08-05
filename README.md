@@ -23,7 +23,7 @@ directly from the GitHub repository:
 
 ```sh
 mkdir -p ~/.config/micro/plug
-git clone https://github.com/akikareha/micro-karehacolors-plugin ~/.config/micro/plug/karehacolors
+git clone https://github.com/akikareha/micro-kareha-colorschemes ~/.config/micro/plug/karehacolors
 ```
 
 Then restart micro and run:
@@ -38,13 +38,14 @@ channel:
 https://github.com/akikareha/micro-unofficial-plugin-channel  
 You can install it by adding the channel and then using `plugin install`.
 
-### Option 2: Use the colorscheme file only
+### Option 2: Use the colorscheme files only
 
 If you prefer not to install the entire plugin, you can copy the color scheme
-file directly:
+files directly:
 
 ```sh
 mkdir -p ~/.config/micro/colorschemes
+cp colorschemes/kareha.micro ~/.config/micro/colorschemes/
 cp colorschemes/kareha-16.micro ~/.config/micro/colorschemes/
 ```
 
